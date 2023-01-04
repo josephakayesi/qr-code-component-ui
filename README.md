@@ -17,33 +17,23 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 
 ## Overview
-<hr>
 
 ### Screenshot  
 
-<br>
-
 
 ![](./images/qr-code-component-desktop.png)
-
-<br>
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-<br>
-
 ## My process
-<hr>
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-
-<br>
 
 ### What I learned
 
@@ -65,8 +55,6 @@ I learnt how to center a div horizontally.
     transform: translateY(-50%);
 }
 ```
-
-<br/>
 
 ### Continued development
 
