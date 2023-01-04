@@ -6,11 +6,11 @@ body {
 .sr-only:not(:focus):not(:active) {
     clip: rect(0 0 0 0); 
     clip-path: inset(50%);
-    height: 1px;
+    height: 0.625rem;
     overflow: hidden;
     position: absolute;
     white-space: nowrap; 
-    width: 1px;
+    width: 0.0625rem;
   }
 
 .container {
@@ -24,12 +24,12 @@ body {
 
 .qrcode-card {
     margin: auto;
-    width: 250px;
-    padding: 15px;
+    width: 15.625rem;
+    padding: 0.9375rem;
     text-align: center;
     border-radius: 5%;
     background-color: hsl(0, 0%, 100%);
-    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05), 0 1px 6px 0 rgba(0, 0, 0, 0.05);
+    box-shadow: 0 0.0625rem 0.125rem 0 rgba(0, 0, 0, 0.05), 0 0.0625rem 0.375 0 rgba(0, 0, 0, 0.05);
 
     position: relative;
     top: 50%;
@@ -42,18 +42,18 @@ body {
     border-radius: 5%;
 }
 .qrcode-text-wrapper {
-    margin: 20px 20px 20px 20px;
+    margin: 1.25rem 1.25rem 1.25rem 1.25rem;
 }
 
 .qrcode-title {
-    font-size: 15px;
+    font-size: 0.9375rem;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
 }
 
 .qrcode-paragraph {
-    margin-top: 20px;
-    font-size: 12px;
+    margin-top: 1.25rem;
+    font-size: 0.75rem;
     font-weight: 400;
     color: hsl(220, 15%, 55%);
 }
