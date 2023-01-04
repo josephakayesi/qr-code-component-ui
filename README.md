@@ -25,8 +25,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/josephakayesi/qr-code-component-ui)
+- Live Site URL: [Add live site URL here](https://qrcodeuiui.vercel.app/)
 
 ## My process
 
